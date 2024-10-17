@@ -1,0 +1,57 @@
+
+
+.starthead {
+	text-align: center;
+	font-family: 'Romantic', sans-serif;
+	padding-top: 20px;
+}
+
+.story {
+	text-align: center;
+	font-size: 25px;
+	font-family: "Courgette", cursive;
+}
+
+body {
+	background-color: #ff758f;
+	margin: 10px 25px;
+}
+
+#link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.storyimage {
+  Width: 300px;
+  height: 400x;
+}
+
+.startpic {
+  width: 150px;
+  height: 150px;
+}
+
+#creditnames {
+  font-size: 40px;
+  color: black;
+}
